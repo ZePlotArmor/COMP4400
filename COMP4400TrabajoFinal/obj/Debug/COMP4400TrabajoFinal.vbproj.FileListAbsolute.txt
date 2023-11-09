@@ -1,0 +1,15 @@
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\bin\Debug\COMP4400TrabajoFinal.exe.config
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\bin\Debug\COMP4400TrabajoFinal.exe
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\bin\Debug\COMP4400TrabajoFinal.pdb
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\bin\Debug\COMP4400TrabajoFinal.xml
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.vbproj.AssemblyReference.cache
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.CardListDisplay.resources
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.Resources.resources
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.vbproj.GenerateResource.cache
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.exe
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.xml
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.pdb
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.RegisterForm.resources
+C:\Users\gilso\source\repos\COMP4400TrabajoFinal\obj\Debug\COMP4400TrabajoFinal.VGLogin.resources
